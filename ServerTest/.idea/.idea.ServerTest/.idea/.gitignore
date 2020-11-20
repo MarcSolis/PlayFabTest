@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.ServerTest.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Repositories\Work\Testing\PlayFab\ServerTest\.idea\.idea.ServerTest\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
